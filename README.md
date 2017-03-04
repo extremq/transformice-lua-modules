@@ -1,5 +1,9 @@
 # Transformice Lua Modülleri & Scriptleri
-Bu dosyada Transformice için Lua API yazdığım kodları bulabilirsiniz.
+Bu dosyada Transformice için Lua API ile yazdığım kodları bulabilirsiniz.
+
+
+----------
+
 
 | Script Adı | Açıklama |
 | ------ | ------ |
