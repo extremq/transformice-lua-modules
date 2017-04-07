@@ -6,3 +6,6 @@ Yeni bir harita başladığında "xml" değişkenine, açılan haritanın XML ko
 
 #Kullanımı
 Scripti çalıştırdıktan sonra yeni bir harita açın (kabilede yetkiniz varsa "/np @Harita" şeklinde harita açabilirsiinz.), daha sonra sohbete "!printxml" yazın ve "#Lua" sohbetine XML kodu parça parça düşecektir.
+
+#Not
+Bu script ile Vanilla haritalarının kodlarını alamazsınız.
