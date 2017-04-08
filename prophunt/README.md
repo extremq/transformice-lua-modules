@@ -4,8 +4,9 @@ Oyuncuların "E" tuşu ile harita üzerindeki (izin verilen) bir objeye dönüş
 # Yapılacaklar
 - [x] Oyuncuların objeye dönüşebilmesi.
 - [x] Oyuncuların bir koordinatta sabitli kalması.
-	- [ ] Oyuncu üst tarafta bulunan zemine yönlendirilecek.
-- [ ] Oyuncuların öldükten sonra tekrar doğabilme sorunu giderilecek.
+	- [x] Oyuncu üst tarafta bulunan zemine yönlendirilecek.
+- [x] Oyuncuların öldükten sonra tekrar doğabilme sorunu giderilecek.
 - [ ] Şaman becerileri devre dışı bırakılacak.
 - [ ] Oyunun başlaması için 3 kişi şart konulacak.
-- [ ] Oyunucu saklanmışsa eventLoop ile güncellenen x-y koordinatları, şamanın onu öldürmesini engelliyor.
+- [x] Oyunucu saklanmışsa eventLoop ile güncellenen x-y koordinatları, şamanın onu öldürmesini engelliyor.
+- [x] Oyuncunun bir objeye, tekrar dönüşebilmesi için 3 saniye gerekecek.
